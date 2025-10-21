@@ -1,5 +1,4 @@
-<style>
-        /* --- Main Container Styling --- */
+/* --- Main Container Styling --- */
         .custom-container {
             max-width: 100%;
             /* Padding adjusted to match the top spacing and leave room for V-cut */
@@ -222,4 +221,3 @@
                 max-width: none;
             }
         }
-    </style>
